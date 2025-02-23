@@ -1,2 +1,3 @@
 # Medical-Diagnosis
-Author- Niraj Matere
+Author- Niraj Matere, <br>
+        Akanknsha Mokashe
